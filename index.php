@@ -12,6 +12,5 @@ include 'navbar.html'
     <?php
     include 'sign-up.html'
     ?>
-
 </body>
 </html>
